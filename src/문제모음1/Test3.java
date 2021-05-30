@@ -8,7 +8,7 @@ public class Test3 {
 		int n;
 		int k = 0;
 		Scanner scan = new Scanner(System.in);
-		System.out.println("숫자 입력");
+		System.out.println("�닽�옄 �엯�젰");
 		n=scan.nextInt();
 		
 		for(int i=0; i<n; i++) {  
